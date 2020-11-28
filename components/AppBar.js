@@ -5,13 +5,13 @@ import{Feather, MaterialCommunityIcons} from '@expo/vector-icons'
 const Container = styled.View`
     width: 100%;
     height: 60px;
-    padding: 0 11x;
+    padding: 0 11px;
     align-items: center;
     flex-direction: row;
     justify-content: space-between;
 
 `
-const text = styled.Text`
+const Text = styled.Text`
     color: #3a86e9;
     font-size: 25px;
     font-weight: bold;
